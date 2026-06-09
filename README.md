@@ -48,7 +48,7 @@ This repository contains PyTorch implementations and numerical experiments for r
 ### Prerequisites
 
 - Python ≥ 3.8
-- PyTorch ≥ 2.0.0 (with CUDA support recommended)
+- PyTorch ≥ 2.5.0 (with CUDA support recommended)
 - Jupyter Notebook
 
 ```bash
