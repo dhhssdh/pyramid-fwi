@@ -18,14 +18,13 @@ This repository contains PyTorch implementations and numerical experiments for r
 ---
 ## Results
 
-![Comparison](assets/loss_init2_invert_image.jpg)
+<img src="assets/loss_init2_invert_image.jpg" width="100%">
 
-*Model reconstruction comparison across FWI, FWI-GAU, and FWI-LAP on Marmousi II.*
+<p><em>Model reconstruction comparison across FWI, FWI-GAU, and FWI-LAP on Marmousi II.</em></p>
 
-![Comparison](assets/loss_init2_curve.jpg)
+<img src="assets/loss_init2_curve.jpg" width="100%">
 
-*Convergence curves for FWI, FWI-GAU, and FWI-LAP. (a) Misfit function reduction. (b)–(d) SNR (in dB) of the reconstructed Vp, Vs, and density models, respectively.*
----
+<p><em>Convergence curves for FWI, FWI-GAU, and FWI-LAP. (a) Misfit function reduction. (b)–(d) SNR (in dB) of the reconstructed Vp, Vs, and density models, respectively.</em></p>
 
 ---
 ## Folder Structure
