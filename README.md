@@ -24,7 +24,7 @@ This repository contains PyTorch implementations and numerical experiments for r
 
 ![Comparison](assets/loss_init2_curve.jpg)
 
-Convergence curves for FWI, FWI-GAU, and FWI-LAP. (a) Misfit function reduction. (b)–(d) SNR (in dB) of the reconstructed Vp, Vs, and density models, respectively.
+*Convergence curves for FWI, FWI-GAU, and FWI-LAP. (a) Misfit function reduction. (b)–(d) SNR (in dB) of the reconstructed Vp, Vs, and density models, respectively.*
 ---
 
 ---
