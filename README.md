@@ -8,7 +8,7 @@ This repository contains PyTorch implementations and numerical experiments for r
 
 | Method | Description |
 |--------|-------------|
-| `FWI` | Standard FWI with L2 loss |
+| `FWI` | Standard FWI with L1 loss |
 | `FWI-GAU` | FWI with Gaussian pyramid loss |
 | `FWI-LAP` | FWI with Laplacian pyramid loss |
 | `FWI-GAU-ML` | FWI with Gaussian pyramid multilevel strategy |
